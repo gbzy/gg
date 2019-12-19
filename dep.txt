@@ -3,6 +3,8 @@ password
 app_key
 what
 test
+cay
+17878@suning.com
 sit.cnsuning.com
 pre.cnsuning.com
 sntipsit.cnsuning.com
