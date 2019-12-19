@@ -1,0 +1,6 @@
+cnsuning.com
+password
+app_key
+sit.cnsuning.com
+pre.cnsuning.com
+sntipsit.cnsuning.com
