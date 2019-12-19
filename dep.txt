@@ -1,6 +1,8 @@
 cnsuning.com
 password
 app_key
+what
+test
 sit.cnsuning.com
 pre.cnsuning.com
 sntipsit.cnsuning.com
