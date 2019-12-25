@@ -1,5 +1,6 @@
 cnsuning.com
 password
+test
 app_key
 17878@suning.com
 sit.cnsuning.com
