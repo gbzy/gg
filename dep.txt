@@ -9,6 +9,4 @@ sntipsit.cnsuning.com
 17878@suning.com
 17878@suning.com
 1345678345635763784
-w13782134562e
-13782134562
-hdfs://namenode2-prd3.cnsuning.com:9000/user/rec/18076444/builder/modelPath1/dnnModel"
+hdfs://namenode2-prd3.cnsuning.com/user/recr/modelPath1/dnnModel"
