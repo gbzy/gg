@@ -9,4 +9,4 @@ sntipsit.cnsuning.com
 17878@suning.com
 17878@suning.com
 1345678345635763784
-hdfs://test"
+
